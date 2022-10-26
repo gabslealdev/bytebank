@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>bytebank</id>
+    <version>1.0.0</version>
+    <authors>bytebank</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Gabriel\Desktop\Alura\C#\POO\bytebank\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json" target="lib\net6.0\bytebank.runtimeconfig.json" />
+    <file src="C:\Users\Gabriel\Desktop\Alura\C#\POO\bytebank\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll" target="lib\net6.0\bytebank.dll" />
+  </files>
+</package>
